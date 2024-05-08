@@ -1,5 +1,5 @@
 <template>
-    <h3>news</h3>
+    <h3>about</h3>
 </template>
 
 <script setup lang="ts">
